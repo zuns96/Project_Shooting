@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9623053f60539454e94345331654a01e, type: 3}
+    totalSpriteSurfaceArea: 9433
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1cb96331c83e7c54caa67c9b61098f10, type: 3}
+  - {fileID: 21300000, guid: 9dbe4a13e7ab79949b133025d5f77e35, type: 3}
+  - {fileID: 21300000, guid: c4a03d84cb7a7544da5f045ba3183aad, type: 3}
+  - {fileID: 21300000, guid: a82b68e400d22dc438a113f1c663e8c9, type: 3}
+  - {fileID: 21300000, guid: 77eaaa55938dacd48a513fe601a8273d, type: 3}
+  - {fileID: 21300000, guid: 6b1f03c7aecbeb1468bd3bf72443578f, type: 3}
+  - {fileID: 21300000, guid: 88eac9e7408eb174ea2b0a4de0d57537, type: 3}
+  - {fileID: 21300000, guid: 870b90fa37f254046afcfb692e47a82d, type: 3}
+  - {fileID: 21300000, guid: 674c17db4045d804085ff4e9c7706efd, type: 3}
+  - {fileID: 21300000, guid: c70e54ec4ed01874f9cfa2548b2c2ec9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Enemy1_RespawnPoint
+  - Wall_UR
+  - Wall_DL
+  - Player_bullet
+  - Wall_Hor
+  - Enemy1
+  - Wall_UL
+  - Wall_Vertical
+  - Player
+  - Wall_DR
+  m_RenderDataMap: {}
+  m_Tag: InGame
+  m_IsVariant: 0
